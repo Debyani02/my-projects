@@ -1,0 +1,57 @@
+.q{
+    background:aliceblue;
+    padding: 10px 0;
+}
+.q a{
+    color: black;
+}
+.q i{
+    font-size: 20px;
+}
+.text {
+    
+    position: absolute;
+    z-index: 1;
+    margin-top: -410px;
+    margin-left: 40px
+}
+.details{
+    background-color: darkgrey;
+    height: auto;
+}
+ul{
+    list-style: none;;
+}
+input{
+    border-radius: 2px;
+}
+textarea{
+    border-radius: 2px;
+}
+.banner p{
+    font-family:cursive;
+    font-size: 40px;
+    font-weight: 200;
+    color:brown;
+    
+}
+.details h5{
+    font-size: 25px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    color:maroon;
+}
+
+.write-to-us{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-top: 10px;
+}
+.write-to-us h2{
+    color:maroon;
+    font-size: 40px;
+    font-family: cursive;
+}
+.write-to-us button :hover{
+    color:maroon;
+}
