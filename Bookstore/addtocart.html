@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Page</title>
+    <link rel="stylesheet" href="addcart.css">
+    <script>
+          function addToCart() {
+    // Get product details (you can retrieve this from the server in a real application)
+    const productName = "Product Name";
+    const productPrice = 20.00;
+
+    // Create a new list item for the cart
+    const cartItem = document.createElement("li");
+    cartItem.textContent = `${productName} - $${productPrice.toFixed(2)}`;
+
+    // Add the item to the cart
+    document.getElementById("cart-items").appendChild(cartItem);
+}
+    </script>
+</head>
+<body>
+
+<div class="product">
+    <h2>Product Name</h2>
+    <p>Description of the product.</p>
+    <p>Price: $20.00</p>
+    <button onclick="addToCart()">Add to Cart</button>
+</div>
+
+<div id="cart">
+    <h2>Shopping Cart</h2>
+    <ul id="cart-items">
+        <!-- Cart items will be dynamically added here -->
+    </ul>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
