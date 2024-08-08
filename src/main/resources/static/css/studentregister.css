@@ -1,0 +1,78 @@
+
+.register{
+    margin-top: 10px;
+}
+.background{
+	background-color:green;
+}
+.top-head{
+    height: 80px;
+    width:98%;
+    background-color:rgba(88, 10, 133,0.71);
+    color: white;
+    border-radius: 7px;
+    margin-left: 13px;
+}
+.top-head h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 37px;
+    font-weight: 100;
+    text-align: center;
+    padding: 17px;
+    
+}
+.form-area{
+    margin-top: 100px;
+    margin-left: 300px;
+   
+}
+.form-area input{
+	padding:5px;
+}
+.entry-field{
+    border-radius: 5px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 20px;
+    height: 40px;
+    width:300px;
+}
+.form-area label{
+    font-family:sans-serif;
+    font-size:18px;
+    
+}
+select{
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    height: 30px;
+    width:300px;
+    border-radius: 5px;
+}
+button{
+    border-radius: 5px;
+    border: none;
+    padding: 5px; 
+    width: 150px;
+    height: 40px;
+    margin-top: 30px;
+}
+button:hover{
+    background-color:rgba(162, 192, 223, 0.712);
+}
+#table-list{
+	margin-left:300px;
+	margin-top:40px;
+}
+#attendance-sheet{
+	margin-left:300px;
+	margin-top:40px;
+}
+
+#search button{
+	margin-left:130px;
+	margin-top:5px;
+}

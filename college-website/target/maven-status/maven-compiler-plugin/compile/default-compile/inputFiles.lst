@@ -1,0 +1,11 @@
+D:\College Management System\college_management\src\main\java\com\college\college_management\CollegeManagementApplication.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\Controller\Controller.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\Controller\RestController.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\pojo\Admin.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\pojo\Course.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\pojo\Department.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\pojo\Faculty.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\pojo\Student.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\repository\AdminRepository.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\repository\CoursesRepository.java
+D:\College Management System\college_management\src\main\java\com\college\college_management\repository\FacultyRepository.java

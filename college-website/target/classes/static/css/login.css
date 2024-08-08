@@ -1,0 +1,48 @@
+body{
+    background: url('../image/backdrop.jpeg');
+    /* backdrop-filter:blur(4px) ; */
+
+}
+.form-space{
+    background-color: rgba(238, 238, 238, 0.981);
+    height: 480px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 530px;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 200px;
+    
+
+
+}
+.form-area{
+    padding: 20px;
+    margin-top: 10px;
+}
+ .form-area a{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 30px;
+   
+}
+.form-area button{
+    border-radius: 5px;
+    margin-left: 50px;
+    height: 30px;
+    width:100px;
+    margin-top: 50px;
+    border-color: aliceblue;
+}
+.form-area button:hover{
+    background-color: rgb(135, 152, 169);
+}
+.dp{
+    text-align: center;
+    margin-top: 20px;
+}
+.top-right{
+	font-size:25px;
+	text-align:end;
+	padding:10px;
+}
